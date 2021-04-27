@@ -1,0 +1,3 @@
+# CS-306-Database-Systems
+
+This Project is about creating an e-commerce system that will make way to a new payment option. This new form of payment is a deposited system where customers will be able to make a down payment of a fraction of the price of the item to reserve the product for a while until the full amount is paid in the given time. With this system when a customer wants to buy a much-needed item at a specific time or reduce the chance of missing out on a limited-edition item due to lack of money at that time, he/she will be able to buy the item. Whereas when payment is not made at the end of the given time, company will keep the deposit and make the item visible for other customers again, making more profit from a unit item.
